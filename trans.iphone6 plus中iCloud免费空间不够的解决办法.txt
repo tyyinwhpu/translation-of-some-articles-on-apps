@@ -1,0 +1,51 @@
+             What if the free cloud space is not enough?
+Some of you may face with such a problem that the free storage space of iCloud is not enough. For example, iCloud provide us with 5G for free, once exhausted, we should spend money for the extra memory space. But now I introduce you another way to solve this “money problem”.
+First of all, you are supposed to learn about those FAQs :
+
+1.	what kinds of files will in general be stored in iCloud by uses?
+Frequently speaking, what are stored in those 5G memory of iCloud by users can be divided into 4 categories including photos, backups, manuscripts and data, mails.
+
+2.	Backup
+This is one of the most important functions of iCloud memory for all of us. Different from the Cable type synchronous,  which is in necessary need of cable connection, this function allows real-time ways to prevent the lost of data.
+
+All information of an individual will be stored when making backups,  ie no matter in which series of iPhone or iPad you log the account, all information within this device will be backed up.
+
+The setting information for iCloud backups is very comprehensive, including the records about wallpapers, forbidden notifications, and even your screen luminance. Thus making your new phone nearly the same as the former ones after finishing recovery by your backups from iCloud.
+
+Besides, iCloud can backup map depot of photos.  photo map depot is in fact the “iCloud photo map depot” since ISO8.1, and for the lack of thorough means of backing up photos, there exists “Camera Roll” option in previous time when backing up.  They are combined into one function at present.
+
+Last but not least, we are going to talk about the application data, which including your logging information of micro blog and Wechat, your chatting records, setting options and so on.  That is to say, all the personal information for your application data are contained.    
+ 
+3.	manuscripts and data
+This part is mainly about stored data by software such Pages, Numbers, iMovies and so on. When iCloud Drive is used , these kinds of data are not only backed up as application data , but also independent data which can be freely edited and used. Of course this real-time edit and synchronization can be achieved by multi-platform. 
+
+4.	Mails
+This is very simple, which includes all information you set about mails, drafts, categories, and flags.
+
+Having learned about these above, it is ok for us to economize iCloud space according to our demand.
+
+Next, we are going to talk about how to make the 5G free storage into effective use:
+
+1.	Take place of iCloud photo map depot with third-party cloud storage software
+This part consumes the largest amount space, even for users who slightly enjoy taking photos, it is so common to save a picture for about 4GB~5GB. Let alone the parents with children, who tend to record down every moment of their children’s lives, thus even the iPhone 6 with 128GB storage might not be enough for them.
+
+So the first step is to switch off the photo map depot of iCloud. However , someone may worry about that all photos may lose once our device is stolen.
+
+Of course not, there are so many means of third-party cloud storage, which provide free memory space to save for our convenience. And they conduct backups acquiescently under the environment of WiFi, which even cannot be perceived when photo-storage finished. And the more important, this type of cloud space can be extended amount by varies ways without fees, so you can get a few TB free storage easily.
+
+2.	Close down some of application data backups
+Get into: set your iCloud – storage space – storage management,  you will find a detailed directory of iCloud, in which there are iOS devices names that have been backed up. Click into one of them you can get detailed space occupied information of the certain device.
+  
+Of course there are still some to be closed, which are exactly the redundant parts of iCloud backups. For example, the map data of Scott navigation, your system will back up off-line maps as application data, however this can be commonly as large as 1-2GB. This kind of data can be redownloaded at any time, and will not be lost permanently, so it is no necessary to be backed up.
+   
+Also, there are other large consumers of storage, such as iMovie, or some player, which runs with heavy amounts of video data, and it is up to you to back up these kind of data or not. However, compared with Wechat data, these data is nothing. So you can just close them down.
+   
+These two ways may help you effectively reduce the space consumption of iCloud, if your demand can still not be met, you may have no other choice but spend money to upgrade your storage space. And at present, you can reach up to 20GB by $6 per month, and 200GB by $25 per month, 500GB by $68 per month, and 1TB by $138 a month if you are rich enough.
+
+
+
+
+ 
+
+
+
