@@ -1,0 +1,46 @@
+                                  Can¡¯t restore from iCloud backup on iOS 9
+With the memory upgrade of iPhone, so much data has been put into iPhone, and iCloud backup has been more and more 
+important for us. However, there might be one day when you buy a new iPhone to home, and are ready for restoring backups 
+from iCloud , then you get connected to the net, and find all your backups , however , it reminds you that ¡°Cannot 
+Restore Backup ¡± a few minutes later and still makes no difference despite that you have tried for a few times. It may 
+upset you , yes?
+
+Maybe you have not been caught in this trouble , but if you want to learn more about it , there are so many occasions of 
+failing to restore backups followed by reminding information. And now I suggest you pieces of method to solve these 
+problems.
+Before started to learn how solving this problem , you are firstly supposed to understand how successfully establish a 
+iCloud backup.
+
+Auto-backup with your iCloud phone is on condition that:
+1.iPhone energy is over 50% , or you are suggested to linked in charge, in case of power insufficiency. 
+2.Your phone has connected to wireless wifi , and I do not suggest using cellular mobile network , which can consume too 
+much mobile flow.
+
+Achieve manual Cloud backups:
+1.Go into settings¡ª¡ªiCloud¡ª¡ªstorage and backup¡ª¡ªbackup immediately.
+
+Next , we solve those problems that can¡¯t restore iCloud backups:
+1.check up your iCloud backups
+iCloud generally maintain 3 backups of different time for each iOS devices. If it says restore failure when you choose 
+one of the backups for restoring , maybe your data of this backup has been damaged for the net problems or other reasons. However ,this failure doesn¡¯t affect other two backups , which you also choose for your restoring .
+2.Check up your router and wifi
+When starting restoring iCloud backups , it may take just a few minutes or dozens of minutes ,which depends on the data 
+amount of your iCloud backups. Please guarantee your net works normally£¬and do not ignore this , especially when there 
+are something disturbing your route , such as a cute pet cat or dog.
+3.Check up your iPhone remaining storage
+If you have used a high speed router for data-restore , and have tried 3 backups of different time , all of which end up 
+in failure , maybe you are supposed to check up the remaining storage of your iPhone. If your memory space is nearly 
+used up , while your data backups cover a heavy space , maybe it is your iPhone space failing to accommodate your data 
+for restoring. And thus you need to clean up your iPhone space , and make the remaining storage space enough to hold on 
+to your iCloud backups.
+
+use third-party tools for help
+If you have all listed above tried and made no difference , you need to download some professional tools to check up 
+your backups. And iCloud extractor is just a good tool for iCloud restoring , which can download all your iCloud backups 
+and then extract your iCloud photos , videos , contact , message , note and so on.  
+
+
+
+
+ 
+
