@@ -1,0 +1,104 @@
+                           iCloud: fault diagnosis & restoration problems of iCloud backups
+
+You might have been caught in those problems related to iCloud backups. The following listed out all warning information you 
+may meet when restoring data from iCloud to new devices. So please reading this article if you can¡¯t establish iCloud backups.
+
+Affected products: iCloud 
+
+Solution
+
+Concrete warning information of fault diagnosis
+
+Note: you¡¯d better save a screen shot if you can¡¯t remember all warned information . Press main screen button and locking button 
+at the same time can save a screen shot, which will be stored in your file named camera films or photos. 
+
+Restoring warning information
+
+States/solution
+
+¡°wi-fi is in need to download your application programs and media.¡±
+iCloud backups needs connection to wifi thus restoring backups from Cloud space. This warning information means restoring failure, and 
+connection to iCloud.com has broken down. You should use more reliable net-connection and try again to restore backups. And make sure your 
+iOS devices successfully connected to internet through wifi.
+
+¡°cannot restore your iPhone data, since your device no more connected to internet ¡±
+When downloading files during restoration, your connection to internet brake up, please use more reliable net-connection and make sure your 
+device successfully connected to internet through wifi.
+
+¡°this iPhone is under restoration now, and auto-backup will be conducted after back-up finishes ¡±
+This information means that backup cannot be performed during background recovering. And you are supposed to try backing up after finishing 
+recovering.
+
+¡°Recovering unfinished - cannot download some programs from Store. And if these programs are in your computer ,you can choose iTunes for 
+recovering.¡±
+Some data (for example, some programs deleted from Stores for the sack of laws)failed to recovering. Please wait for a few minutes and try 
+restoring again after having connected to reliable wifi net. And if these unrecovered data also exists within your iTunes data storage, you 
+can solve this problem by synchronizing it back to iPhone with data cable.
+
+¡°Cannot recover some projects from iCloud backups.¡±
+Part of the data (such as the photos of ¡°camera film¡± ,videos and application data) haven¡¯t been recovered successfully from backups. 
+Please wait for few minutes, and then try again after being connected to reliable WiFi network.
+
+¡°Download other paid programs ? There are still some paid applications and media having not been downloaded, and do you want to down load 
+these paid programs, or delete them with application data ? ¡±
+
+¡°Backup-restoring¡± seems to have been canceled by the iCloud user who launches it, if not in this case and you have not canceled the 
+restoring , please restart again to recover it.
+
+¡° If recover this iPhone from your iPad backups, its settings and some programs dedicated for iPad will not be recovered.¡±
+This case may appear when restoring iPhone or iPod from your iPad backups, and only paid programs (including those data of it)can be 
+recovered.
+
+¡°Restoring iPad from your iPhone , its settings information will not be recovered.¡±
+This case may happen when restoring iPad from your iPhone backups , and only paid programs (including those data of it)can be recovered.
+
+¡°iCloud backups cannot access the account ¡°benv@me.com¡±. Please recheck your account information in settings.¡±
+iCloud cannot identify the iCloud account key you input when setting your iCloud ¡°settings¡±(here take the ¡°benv@me.com ¡± as an example). 
+This is often the case when you reset your iCloud password without resetting the password as well through the iCloud settings in your iOS 
+devices. And this also may happen when you fail to identify your account for other reasons like cannot connect to iCloud server.
+
+¡°Cannot recover your iPhone since there are other device under recovering. Please try again later.¡±
+If you try to recover your devices from other backups within other devices, but the original device is under recovering, this warning will 
+appear. To solve this problem , you are supposed to waiting for the original device finishing its backup , or cancel the backup operation of 
+the original devices and try recover again later on other devices.
+
+¡°You are supposed by iCloud to identify the password. ¡±
+Only by inputting password can you restore or add to the present cryptographic backups. And this can be solved by putting in your password.
+
+¡°No data that have not been downloaded will be recovered or in backup in the future.¡±
+This information will be shown when canceling a certain background recovering. If operating continually, you need to recover again to store 
+all data within devices. Or download again music, application programs, and other data. The best way to avoid this problem is not canceling 
+background recovering. If it is indeed necessary for you to cancel certain recovering, please make sure you have backed up this unrecovered 
+data.
+
+¡°No access to available backups.¡±
+The account logging in the iCloud ¡°settings¡± haven¡¯t operated online-backups. This maybe the case if you don¡¯t back up your data or 
+possess more than one account while using the incorrect one in your iCloud. And you should click ¡°settings¡±--identify your iCloud account, 
+and then try again.
+
+¡°Cannot restore your iPhone, for the lack of sever failure.¡±
+This may be the case when server break down and causes the recovering failure. And this kind of warning is very infrequent for the severs 
+time-over. And wait for a few minutes to try again, recovering might be launched. If problem still exists, please contact iCloud and ask for 
+help.
+
+¡°There is something wrong when loading in ¡®iCloud backups¡¯. Please try again,and this device as a new iPhone , or recover the backups 
+from your iTunes.¡±
+Check-up on the state of your account backups have been unfinished, Which may be caused by net failure or some other reasons.  When facing 
+with this, the simplest way is waiting for a few minutes, and testing if the internet is accessible, then try to recover again. If still 
+caught by this trouble, please make sure your iOS devices have connected successfully to the Internet by WiFi.
+
+¡°Can not recover your iPhone , since there is something wrong with your backup data. Please choose other resources to back up.¡±
+Your backups seem not be able to use. If facing with this warning, please wait for a few minutes and try again. If still in this problem, 
+you can contact iCloud support for help.
+
+Common failure diagnosis
+If the recovering has finished, however some information seems have been lost, please operate like the following:
+Make sure the WiFi-connection during recovering is effective and reliable.
+Clarify if the data you want to search have been backed up to iCloud as a part of the backup function. And you can learn more about the 
+iCloud according to this article.
+And once the recovering finished, some other operations may need to restore totally the data you have backed up:
+Input again the password of some application programs(such as iTunes Store, Game Center and some other third part application programs).
+Use iTunes music matching(only in America),and download songs, specials, or playing list to your devices.
+And if your iCloud backups still continues to restoring, you¡¯d better have it finish what already started. However , if you still face 
+with warnings that cannot be solved, you can restart the device.
+If these problems listed out above still exist, please contact iCloud for more help.
