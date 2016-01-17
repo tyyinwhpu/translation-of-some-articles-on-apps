@@ -3,10 +3,10 @@ After you get a iPhone 6, how can you save your time and energy to the most when
 may help you to find the best way to migrate data through iTunes, and make preparations in advance, thus avoiding 
 unnecessary waste of time. And in fact it is very reliable, which saves time much better than iCloud.
 
-Step 0: in theory , you°Ød better upgrade as well your pattern devices to iOS 9
+Step 0: in theory , you‚Äôd better upgrade as well your old pattern devices to iOS 9
 
 Make preparations in advance, thus you can start more quickly your work of data migration when receive this new type 
-of iPhone 6. Since that the iPhone 6 is defaulted to install iOS 9 system, you°Ød better upgrade before starting your 
+of iPhone 6. Since that the iPhone 6 is defaulted to install iOS 9 system, you‚Äôd better upgrade before starting your 
 old device system to iOS 9 to keep the consistency of data.
 
 
@@ -16,40 +16,29 @@ iPhone now supports two ways of backing up: iTunes and iCloud, it is right that 
 iPhone can finish data refreshing automatically through wireless net when getting charged every night when you fall asleep. 
 And if only there is WiFi net ,your iPhone can recover backups by iCloud. However, the worst disadvantage of iCloud  when 
 initializing and totally restoring is slow. Especially when the data amount is huge, this can be a torture for you. Hence 
-even if you are a paid iCloud user, you°Ød better no use iCloud to migrate  data between old and new devices unless you have 
+even if you are a paid iCloud user, you‚Äôd better no use iCloud to migrate  data between old and new devices unless you have 
 no computer at hand for the time being.
 
 The fastest way of migrating data between different iPhone is start your iTunes of your computer, click the iPhone icon on the 
 top left corner. And in the left column you can find the those setting options including abstract, application, music, movies. 
-And the page is defaulted to °Æabstract°Ø label.
+And the page is defaulted to ‚Äòabstract‚Äô label.
 
-In the °Æbackup°Ø option, you can find two further options in auto-backup: iCloud or this computer. Yes , just choose °∞this 
-computer°± and choose °∞back up for your iPhone°±. And don°Øt look down upon this step , which can save you too much time and 
+In the ‚Äòbackup‚Äô option, you can find two further options in auto-backup: iCloud or this computer. Yes , just choose ‚Äúthis 
+computer‚Äù and choose ‚Äúback up for your iPhone‚Äù. And don‚Äôt look down upon this step , which can save you too much time and 
 pull you out of these troubles: when restoring data from encrypted backups, you need not print in password again and again during 
 the process.
 
-OK, now we can press the °∞back up immediately°± button, which might be followed by a popup, asking if you want to transmit all 
-paid programs. And if that happens, choose °∞transmit paid programs°± is enough. Next , the process may take unexpected time from 
-few minutes to hours. Once the backup finished, °∞the newest backups°± will show the current date. It is OK, just back up your 
+OK, now we can press the ‚Äúback up immediately‚Äù button, which might be followed by a popup, asking if you want to transmit all 
+paid programs. And if that happens, choose ‚Äútransmit paid programs‚Äù is enough. Next , the process may take unexpected time from 
+few minutes to hours. Once the backup finished, ‚Äúthe newest backups‚Äù will show the current date. It is OK, just back up your 
 data once again, this second backups can guarantee all data restored to your computer, and you have no necessary to worry about data loss.
 
 
 Step 2: you can wipe out the whole data within your old device if you will not use it again.
-If you intend to clean up totally your iPhone of old pattern, the simplest way is going into °∞settings-common use-restore-wipe out 
-all data and the device°± . The system will ask you to switch off the device lock when conducting this operation, and once the device 
-lock switched off, the iPhone will unwrap from your iCloud account, then you cannot use more again these functions such as the orientation 
-function of °∞find back my iPhone°±.
+If you intend to clean up totally your iPhone of old pattern, the simplest way is going into ‚Äúsettings-common use-restore-wipe out all data and the device‚Äù . The system will ask you to switch off the device lock when conducting this operation, and once the device lock switched off, the iPhone will unwrap from your iCloud account, then you cannot use more again these functions such as the orientation function of ‚Äúfind back my iPhone‚Äù.
 
 
 Step 3: recover the backups from iTunes to your iPhone 6s
-This step is the simplest one.  When getting your iPhone 6s, you even need no operations onto the screen, and just link it to the 
-computer with data cable, then switch on your iTunes, you will meet a page of welcoming using new iPhone. What you need to do is 
-choose °∞restoring from this device°±, and the iTunes will finish remaining works. All personal data and device options will be 
-recovered back to your new iPhone, and iTunes will restart your phone during the process and start recovering the data of applications 
-and media files. The whole procedure of recovering the same amount of data must save obviously much time compared with iCloud.
+This step is the simplest one.  When getting your iPhone 6s, you even need no operations onto the screen, and just link it to the computer with data cable, then switch on your iTunes, you will meet a page of welcoming using new iPhone. What you need to do is choosing ‚Äúrestoring from this device‚Äù, and the iTunes will finish remaining works. All personal data and device options will be recovered back to your new iPhone, and iTunes will restart your phone during the process and start recovering the data of applications and media files. The whole procedure of recovering the same amount of data must save obviously much time compared with iCloud.
 
-The whole procedure generally need not your manual intervention.  And you only need to back up the password of your iCloud or iTunes 
-during the first restart. Thus guarantee you to authorize the new device take in all data backed up previously in the old devices. 
-Of course ,as for the setting information related to Touch ID and Apple Pay , you need set them once again individually on your iPhone 6s, 
-since the reason for privacy protection, these kind of data can be stored only in one certain device, which cannot be migrated or 
-synchronized among different devices.
+The whole procedure generally need not your manual intervention.  And you only need to back up the password of your iCloud or iTunes during the first restart. Thus guarantee you to authorize the new device take in all data backed up previously in the old devices. Of course ,as for the setting information related to Touch ID and Apple Pay , you need set them once again individually on your iPhone 6s, since the reason for privacy protection, these kind of data can be stored only in one certain device, which cannot be migrated or synchronized among different devices.
